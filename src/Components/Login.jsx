@@ -17,7 +17,7 @@ export default function Login({ onLogin }) {
     return ( 
         <div className="bg-gradient-to-b from-white to-[#FFC97E] flex space-x-56 items-center justify-center min-h-screen"> 
             <div> 
-                <img className="h-48 -mt-10 ml-20" src="public/pics/newlogo.svg" alt="" /> 
+                <img className="h-48 -mt-10 ml-20" src="/pics/newlogo.svg" alt="" /> 
             </div> 
             <div> 
                 <div className="relative w-full max-w-sm ml-5 -mt-5"> 
